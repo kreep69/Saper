@@ -59,5 +59,8 @@ public class Mine {
 
         }
     }
-
+    int getTotalMines()
+    {
+        return totalMine;
+    }
 }
